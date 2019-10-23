@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.wrap{
+	width:950px;
+	margin:0 auto;
+}
+
+.HAKUBA img{
+	width:950px;
+	margin:0 auto;
+	justify-content:center;
+}
+
+p{
+	color:#191970;
+	font-size:30px;
+}
+
+h1{
+	background-color:#afeeee;
+	text-aligh:center;
+	color:#191970;
+	font-size:40px;
+}
+
+h2{
+	background-color:#e0ffff;
+	text-aligh:center;
+	color:#191970;
+	font-size:70px;
+}
+
+h3{
+	font-size:100px;
+}
+h4{
+	font-size:50px;
+}
+
